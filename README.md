@@ -9,6 +9,3 @@ Link - https://www.kaggle.com/competitions/lmsys-chatbot-arena/overview
 Public Score : 1.098 - https://www.kaggle.com/code/barirahzainal/my-project-lmsys-submission-8
 
 Public Score : 1.114 - https://www.kaggle.com/code/barirahzainal/my-project-lmsys-submission-1
-
-
-# Machine Learning Canvas Lists : 
